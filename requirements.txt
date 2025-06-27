@@ -1,0 +1,4 @@
+customtkinter
+tinydb
+babel
+PyYAML

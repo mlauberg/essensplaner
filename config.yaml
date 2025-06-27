@@ -1,0 +1,8 @@
+# mein_essensplaner/config.yaml
+default_meal:
+  name: "Essen"
+  start_time: "17:30"
+  end_time: "18:00"
+  duration_minutes: 30
+
+data_file: "events_db.json"

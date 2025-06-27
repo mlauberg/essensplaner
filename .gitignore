@@ -1,0 +1,6 @@
+# .gitignore
+.venv/
+__pycache__/
+*.pyc
+events_db.json
+credentials.yaml

@@ -1,0 +1,10 @@
+{
+    "events": {
+        "1": {
+            "date": "2025-06-20",
+            "status": "rescheduled",
+            "start_time": "17:00",
+            "end_time": "17:30"
+        }
+    }
+}
